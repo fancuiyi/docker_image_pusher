@@ -4,3 +4,4 @@ nginx:1.23.4
 mysql:8.0.33
 tekintian/oracle12c:latest
 ghcr.io/open-webui/open-webui:ollama
+oracleinanutshell/oracle-xe-11g  
